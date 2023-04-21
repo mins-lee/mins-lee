@@ -1,4 +1,4 @@
-### Hi, I am Min!
+These repositories showcae the projects I completed during my time at CMU. Thanks for stopping by!
 
 
 
